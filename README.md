@@ -1,7 +1,7 @@
 # odin-recipes
 This project is a basic recipe website created for the Odin Project to study the basics of HTML and Git. The website consists of a main index page which links to a few recipes. Each link leads to a separate page with an image, description of the dish, ingredient list, and step-by-step instructions on how to cook.
 
-###Project Structure
+### Project Structure
 
 The project is structured as follows:
 
