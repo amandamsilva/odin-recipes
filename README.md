@@ -5,15 +5,15 @@ This project is a basic recipe website created for the Odin Project to study the
 
 The project is structured as follows:
 
-    *The main page is index.html which lists all the recipes available.
-    *Each recipe has its own HTML page under the recipes/ directory.
+* The main page is index.html which lists all the recipes available.
+* Each recipe has its own HTML page under the recipes/ directory.
 
-###How to Use
+### How to Use
 
-    Open the index.html file in a web browser to view the main page.
-    Click on a recipe link to view the detailed recipe page.
+* Open the index.html file in a web browser to view the main page.
+* Click on a recipe link to view the detailed recipe page.
 
 
-###Acknowledgements
+### Acknowledgements
 
 This project was inspired by the Odin Project's Foundations Course and the Recipes project theodinproject.com.
